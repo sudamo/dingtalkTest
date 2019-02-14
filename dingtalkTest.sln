@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dingtalkTest", "dingtalkTest\dingtalkTest.csproj", "{730D3505-19BB-4A87-8AA6-08927D14B0F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{675DB058-DE5D-45D0-91A8-4ABCCB233A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{EE61377A-6860-4A15-AEAC-21289D417EEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{730D3505-19BB-4A87-8AA6-08927D14B0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730D3505-19BB-4A87-8AA6-08927D14B0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730D3505-19BB-4A87-8AA6-08927D14B0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675DB058-DE5D-45D0-91A8-4ABCCB233A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675DB058-DE5D-45D0-91A8-4ABCCB233A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675DB058-DE5D-45D0-91A8-4ABCCB233A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675DB058-DE5D-45D0-91A8-4ABCCB233A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE61377A-6860-4A15-AEAC-21289D417EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE61377A-6860-4A15-AEAC-21289D417EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE61377A-6860-4A15-AEAC-21289D417EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE61377A-6860-4A15-AEAC-21289D417EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
