@@ -5,7 +5,7 @@ namespace DDApi.Model
 {
     public class GetDepartmentListModel
     {
-        public IList<DepartmentInfo> department { get; set; }
+        public List<DepartmentInfo> department { get; set; }
 
         public int errcode { get; set; }
 
